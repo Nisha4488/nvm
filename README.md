@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Intro](#intro)
+- [Intro](#intro1)
 - [About](#about)
 - [Installing and Updating](#installing-and-updating)
   - [Install & Update Script](#install--update-script)
